@@ -8,6 +8,7 @@ You can access the API documentation [here](https://sfg-beer-works.github.io/bre
 1) h2-console
 2) create-my-sql-users
 3) liq-add-column
+4) fly-clean
 
 ## Connect with Spring Framework Guru
 * Spring Framework Guru [Blog](https://springframework.guru/)
