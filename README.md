@@ -9,6 +9,7 @@ You can access the API documentation [here](https://sfg-beer-works.github.io/bre
 2) create-my-sql-users
 3) liq-add-column
 4) fly-clean
+5) pk-embedded (hibernate primary keys)
 
 ## Connect with Spring Framework Guru
 * Spring Framework Guru [Blog](https://springframework.guru/)
