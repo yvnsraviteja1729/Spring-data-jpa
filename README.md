@@ -10,8 +10,6 @@ You can access the API documentation [here](https://sfg-beer-works.github.io/bre
 3) liq-add-column
 4) fly-clean
 5) pk-embedded (hibernate primary keys)
-6) refactor-auth-id-to-author (Dao pattern using custom jdbc) (old way without using JpaRepository)
-7) author-books(Jdbc pattern which is a wrapper around jdbc)
 
 ## Connect with Spring Framework Guru
 * Spring Framework Guru [Blog](https://springframework.guru/)
